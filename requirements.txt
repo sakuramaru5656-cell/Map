@@ -1,3 +1,4 @@
 streamlit
-googlemaps
 pandas
+geopy
+requests
